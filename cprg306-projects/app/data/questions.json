@@ -1,0 +1,452 @@
+[
+  {
+    "category": "Geography",
+    "question": "What is the capital of France?",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "answer": "Paris"
+  },
+  {
+    "category": "Geography",
+    "question": "Which river is the longest in the world?",
+    "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+    "answer": "Nile"
+  },
+  {
+    "category": "Geography",
+    "question": "What country has the most natural lakes?",
+    "options": ["Canada", "USA", "India", "Russia"],
+    "answer": "Canada"
+  },
+  {
+    "category": "Geography",
+    "question": "Which continent is the largest by land area?",
+    "options": ["Asia", "Africa", "North America", "Europe"],
+    "answer": "Asia"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the smallest country in the world?",
+    "options": ["Monaco", "San Marino", "Vatican City", "Liechtenstein"],
+    "answer": "Vatican City"
+  },
+  {
+    "category": "Geography",
+    "question": "Which ocean is the largest in the world?",
+    "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+    "answer": "Pacific"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the name of the desert covering much of northern Africa?",
+    "options": ["Sahara", "Gobi", "Kalahari", "Atacama"],
+    "answer": "Sahara"
+  },
+  {
+    "category": "Geography",
+    "question": "What country is known as the Land of the Rising Sun?",
+    "options": ["China", "Japan", "South Korea", "Vietnam"],
+    "answer": "Japan"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the name of the highest mountain in the world?",
+    "options": ["K2", "Mount Everest", "Kangchenjunga", "Lhotse"],
+    "answer": "Mount Everest"
+  },
+  {
+    "category": "Geography",
+    "question": "Which U.S. state has the most islands?",
+    "options": ["Florida", "Hawaii", "Alaska", "California"],
+    "answer": "Alaska"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the driest place on Earth?",
+    "options": ["Sahara Desert", "Atacama Desert", "Antarctica", "Death Valley"],
+    "answer": "Antarctica"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the name of the sea bordered by Europe, Asia, and Africa?",
+    "options": ["Caribbean Sea", "Mediterranean Sea", "Baltic Sea", "Arabian Sea"],
+    "answer": "Mediterranean Sea"
+  },
+  {
+    "category": "Geography",
+    "question": "Which country has the most volcanoes?",
+    "options": ["Japan", "Indonesia", "Philippines", "Iceland"],
+    "answer": "Indonesia"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the deepest ocean trench in the world?",
+    "options": ["Mariana Trench", "Java Trench", "Tonga Trench", "Puerto Rico Trench"],
+    "answer": "Mariana Trench"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the official language of Brazil?",
+    "options": ["Spanish", "Portuguese", "French", "English"],
+    "answer": "Portuguese"
+  },
+  {
+    "category": "Geography",
+    "question": "Which country shares the longest land border with the USA?",
+    "options": ["Mexico", "Canada", "Russia", "China"],
+    "answer": "Canada"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital of Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    "answer": "Canberra"
+  },
+  {
+    "category": "Geography",
+    "question": "Which country is shaped like a boot?",
+    "options": ["Greece", "Italy", "Portugal", "Spain"],
+    "answer": "Italy"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the largest desert in the world?",
+    "options": ["Gobi", "Sahara", "Antarctica", "Kalahari"],
+    "answer": "Antarctica"
+  },
+  {
+    "category": "Geography",
+    "question": "What country is home to the Great Barrier Reef?",
+    "options": ["Indonesia", "Australia", "Philippines", "Fiji"],
+    "answer": "Australia"
+  },
+  {
+    "category": "Geography",
+    "question": "Which African country has the largest population?",
+    "options": ["Egypt", "South Africa", "Nigeria", "Ethiopia"],
+    "answer": "Nigeria"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the longest river in the United States?",
+    "options": ["Mississippi River", "Missouri River", "Colorado River", "Ohio River"],
+    "answer": "Missouri River"
+  },
+  {
+    "category": "Geography",
+    "question": "What city is the capital of Canada?",
+    "options": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+    "answer": "Ottawa"
+  },
+  {
+    "category": "Geography",
+    "question": "Which continent has the most countries?",
+    "options": ["Asia", "Africa", "Europe", "South America"],
+    "answer": "Africa"
+  },
+  {
+    "category": "Geography",
+    "question": "What is the capital city of Germany?",
+    "options": ["Munich", "Berlin", "Frankfurt", "Hamburg"],
+    "answer": "Berlin"
+  },
+  {
+    "category": "Science",
+    "question": "What is the chemical symbol for water?",
+    "options": ["O2", "H2O", "CO2", "HO"],
+    "answer": "H2O"
+  },
+  {
+    "category": "Science",
+    "question": "What planet is known as the Red Planet?",
+    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "answer": "Mars"
+  },
+  {
+    "category": "Science",
+    "question": "What is the speed of light?",
+    "options": ["300,000 km/s", "150,000 km/s", "1,000 km/s", "10,000 km/s"],
+    "answer": "300,000 km/s"
+  },
+  {
+    "category": "Science",
+    "question": "What is the powerhouse of the cell?",
+    "options": ["Nucleus", "Mitochondria", "Ribosome", "Chloroplast"],
+    "answer": "Mitochondria"
+  },
+  {
+    "category": "Science",
+    "question": "What gas do plants absorb from the atmosphere?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Helium"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "category": "Science",
+    "question": "What is the smallest particle of an element?",
+    "options": ["Atom", "Molecule", "Electron", "Proton"],
+    "answer": "Atom"
+  },
+  {
+    "category": "Science",
+    "question": "What is the largest organ in the human body?",
+    "options": ["Heart", "Lungs", "Skin", "Liver"],
+    "answer": "Skin"
+  },
+  {
+    "category": "Science",
+    "question": "What is the most abundant gas in Earth's atmosphere?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "answer": "Nitrogen"
+  },
+  {
+    "category": "Science",
+    "question": "What force keeps planets in orbit around the Sun?",
+    "options": ["Magnetism", "Gravity", "Friction", "Centripetal Force"],
+    "answer": "Gravity"
+  },
+  {
+    "category": "Science",
+    "question": "What is the basic unit of heredity?",
+    "options": ["Chromosome", "DNA", "Gene", "RNA"],
+    "answer": "Gene"
+  },
+  {
+    "category": "Science",
+    "question": "What type of energy is stored in a stretched rubber band?",
+    "options": ["Kinetic Energy", "Potential Energy", "Thermal Energy", "Chemical Energy"],
+    "answer": "Potential Energy"
+  },
+  {
+    "category": "Science",
+    "question": "What is the main gas found in the Sun?",
+    "options": ["Hydrogen", "Oxygen", "Nitrogen", "Helium"],
+    "answer": "Hydrogen"
+  },
+  {
+    "category": "Science",
+    "question": "What part of the brain controls balance and coordination?",
+    "options": ["Cerebrum", "Cerebellum", "Brainstem", "Hypothalamus"],
+    "answer": "Cerebellum"
+  },
+  {
+    "category": "Science",
+    "question": "What is the pH level of pure water?",
+    "options": ["7", "1", "14", "10"],
+    "answer": "7"
+  },
+  {
+    "category": "Science",
+    "question": "What is the center of an atom called?",
+    "options": ["Electron", "Nucleus", "Proton", "Neutron"],
+    "answer": "Nucleus"
+  },
+  {
+    "category": "Science",
+    "question": "What is the largest planet in our solar system?",
+    "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "answer": "Jupiter"
+  },
+  {
+    "category": "Science",
+    "question": "What type of blood cells help fight infection?",
+    "options": ["Red Blood Cells", "White Blood Cells", "Platelets", "Plasma"],
+    "answer": "White Blood Cells"
+  },
+  {
+    "category": "Science",
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Au", "Ag", "Fe", "Pb"],
+    "answer": "Au"
+  },
+  {
+    "category": "Science",
+    "question": "What is the process by which plants make their own food?",
+    "options": ["Respiration", "Photosynthesis", "Digestion", "Osmosis"],
+    "answer": "Photosynthesis"
+  },
+  {
+    "category": "Science",
+    "question": "What is the hottest planet in our solar system?",
+    "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+    "answer": "Venus"
+  },
+  {
+    "category": "Science",
+    "question": "What is the term for an animal that eats both plants and meat?",
+    "options": ["Herbivore", "Carnivore", "Omnivore", "Detritivore"],
+    "answer": "Omnivore"
+  },
+  {
+    "category": "Science",
+    "question": "What metal is liquid at room temperature?",
+    "options": ["Mercury", "Gold", "Lead", "Aluminum"],
+    "answer": "Mercury"
+  },
+  {
+    "category": "Science",
+    "question": "What is the main function of red blood cells?",
+    "options": ["Transport Oxygen", "Fight Infection", "Clot Blood", "Store Fat"],
+    "answer": "Transport Oxygen"
+  },
+  {
+    "category": "Science",
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Gold", "Iron", "Diamond", "Graphite"],
+    "answer": "Diamond"
+  },
+  {
+    "category": "Science",
+    "question": "What type of celestial body is the Sun?",
+    "options": ["Planet", "Star", "Moon", "Asteroid"],
+    "answer": "Star"
+  },
+  {
+      "category": "History",
+      "question": "Who was the first President of the United States?",
+      "options": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "John Adams"],
+      "answer": "George Washington"
+    },
+    {
+      "category": "History",
+      "question": "What year did World War II end?",
+      "options": ["1945", "1940", "1939", "1942"],
+      "answer": "1945"
+    },
+    {
+      "category": "History",
+      "question": "Who was known as the 'Father of History'?",
+      "options": ["Herodotus", "Socrates", "Plato", "Aristotle"],
+      "answer": "Herodotus"
+    },
+    {
+      "category": "History",
+      "question": "What was the name of the ship that carried the Pilgrims to America in 1620?",
+      "options": ["Santa Maria", "Mayflower", "Endeavour", "Victoria"],
+      "answer": "Mayflower"
+    },
+    {
+      "category": "History",
+      "question": "In what year was the Declaration of Independence signed?",
+      "options": ["1776", "1783", "1765", "1804"],
+      "answer": "1776"
+    },
+    {
+      "category": "History",
+      "question": "Who was the leader of the Soviet Union during World War II?",
+      "options": ["Joseph Stalin", "Vladimir Lenin", "Nikita Khrushchev", "Leon Trotsky"],
+      "answer": "Joseph Stalin"
+    },
+    {
+      "category": "History",
+      "question": "What ancient civilization built the pyramids?",
+      "options": ["Romans", "Greeks", "Egyptians", "Mesopotamians"],
+      "answer": "Egyptians"
+    },
+    {
+      "category": "History",
+      "question": "Who was the first man to step on the Moon?",
+      "options": ["Buzz Aldrin", "Yuri Gagarin", "Neil Armstrong", "John Glenn"],
+      "answer": "Neil Armstrong"
+    },
+    {
+      "category": "History",
+      "question": "What was the name of the first successful English colony in America?",
+      "options": ["Jamestown", "Plymouth", "Roanoke", "Salem"],
+      "answer": "Jamestown"
+    },
+    {
+      "category": "History",
+      "question": "Which empire was ruled by Julius Caesar?",
+      "options": ["Greek Empire", "Roman Empire", "Ottoman Empire", "Mongol Empire"],
+      "answer": "Roman Empire"
+    },
+    {
+      "category": "History",
+      "question": "What war was fought between the North and South regions of the United States?",
+      "options": ["Revolutionary War", "Civil War", "War of 1812", "Mexican-American War"],
+      "answer": "Civil War"
+    },
+    {
+      "category": "History",
+      "question": "What country was Napoleon Bonaparte from?",
+      "options": ["Spain", "Italy", "France", "Portugal"],
+      "answer": "France"
+    },
+    {
+      "category": "History",
+      "question": "Who was the famous British Prime Minister during World War II?",
+      "options": ["Winston Churchill", "Neville Chamberlain", "Margaret Thatcher", "Tony Blair"],
+      "answer": "Winston Churchill"
+    },
+    {
+      "category": "History",
+      "question": "In which year did the Titanic sink?",
+      "options": ["1910", "1912", "1914", "1920"],
+      "answer": "1912"
+    },
+    {
+      "category": "History",
+      "question": "Which empire was known as the 'Land of the Rising Sun'?",
+      "options": ["Roman Empire", "Ottoman Empire", "Japanese Empire", "Byzantine Empire"],
+      "answer": "Japanese Empire"
+    },
+    {
+      "category": "History",
+      "question": "What year did the Berlin Wall fall?",
+      "options": ["1987", "1989", "1991", "1995"],
+      "answer": "1989"
+    },
+    {
+      "category": "History",
+      "question": "Who wrote the Communist Manifesto?",
+      "options": ["Karl Marx and Friedrich Engels", "Vladimir Lenin and Leon Trotsky", "Joseph Stalin and Mao Zedong", "John Locke and Thomas Hobbes"],
+      "answer": "Karl Marx and Friedrich Engels"
+    },
+    {
+      "category": "History",
+      "question": "What dynasty ruled China for nearly 300 years and ended in 1912?",
+      "options": ["Ming", "Qing", "Tang", "Han"],
+      "answer": "Qing"
+    },
+    {
+      "category": "History",
+      "question": "Which civilization is credited with developing the first written language?",
+      "options": ["Egyptians", "Sumerians", "Romans", "Greeks"],
+      "answer": "Sumerians"
+    },
+    {
+      "category": "History",
+      "question": "Who discovered America in 1492?",
+      "options": ["Christopher Columbus", "Leif Erikson", "Amerigo Vespucci", "Ferdinand Magellan"],
+      "answer": "Christopher Columbus"
+    },
+    {
+      "category": "History",
+      "question": "Which war was fought between 1939 and 1945?",
+      "options": ["World War I", "World War II", "Vietnam War", "Korean War"],
+      "answer": "World War II"
+    },
+    {
+      "category": "History",
+      "question": "What was the first city to be targeted by an atomic bomb?",
+      "options": ["Nagasaki", "Hiroshima", "Tokyo", "Osaka"],
+      "answer": "Hiroshima"
+    },
+    {
+      "category": "History",
+      "question": "What was the name of the ship that Charles Darwin traveled on to the Galapagos Islands?",
+      "options": ["HMS Endeavour", "HMS Victory", "HMS Beagle", "HMS Challenger"],
+      "answer": "HMS Beagle"
+    },
+    {
+      "category": "History",
+      "question": "Who painted the ceiling of the Sistine Chapel?",
+      "options": ["Leonardo da Vinci", "Raphael", "Michelangelo", "Donatello"],
+      "answer": "Michelangelo"
+    },
+    {
+      "category": "History",
+      "question": "What was the first human-made object to orbit the Earth?",
+      "options": ["Sputnik 1", "Apollo 11", "Explorer 1", "Voyager 1"],
+      "answer": "Sputnik 1"
+    }
+]
