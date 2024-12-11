@@ -3,7 +3,6 @@
 import { useState } from "react";
 import questionsData from "../data/questions.json";
 
-// Utility function to shuffle an array
 function shuffleArray(array) {
   return array.sort(() => Math.random() - 0.5);
 }
@@ -15,13 +14,12 @@ export default function QuizPage() {
   const [score, setScore] = useState(0);
   const [showResults, setShowResults] = useState(false);
 
-  const categories = [...new Set(questionsData.map((q) => q.category))]; // Extract unique categories
+  const categories = [...new Set(questionsData.map((q) => q.category))]; 
 
-  // Handle category selection and shuffle questions
   const handleCategorySelection = (category) => {
     setSelectedCategory(category);
     const filteredQuestions = questionsData.filter((q) => q.category === category);
-    const shuffled = shuffleArray(filteredQuestions).slice(0, 10); // Select only 10 random questions
+    const shuffled = shuffleArray(filteredQuestions).slice(0, 10);
     setShuffledQuestions(shuffled);
     setCurrentQuestionIndex(0);
     setScore(0);
@@ -47,11 +45,11 @@ export default function QuizPage() {
     setScore(0);
     setShowResults(false);
     const filteredQuestions = questionsData.filter((q) => q.category === selectedCategory);
-    const shuffled = shuffleArray(filteredQuestions).slice(0, 10); // Select a new set of 10 random questions
+    const shuffled = shuffleArray(filteredQuestions).slice(0, 10);
     setShuffledQuestions(shuffled);
   };
 
-  const progress = Math.round(((currentQuestionIndex + 1) / shuffledQuestions.length) * 100); // Calculate percentage
+  const progress = Math.round(((currentQuestionIndex + 1) / shuffledQuestions.length) * 100);
 
   return (
     <div className="min-h-screen flex flex-col justify-center items-center bg-gray-900 text-white">
